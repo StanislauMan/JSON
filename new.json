@@ -1,5 +1,8 @@
-Mandryk Stanislau
-26 y.o.
-3
-~infinity
+{
+	"First name" : "Stanislau",
+	"Last name" : "Mandryk",
+	"Age" : "26",
+	"Amount of pets" : "3",
+	"Future salary" : "infinity"
+}
 
